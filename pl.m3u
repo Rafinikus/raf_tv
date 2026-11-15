@@ -187,7 +187,7 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" iptv-org-id="360News.ru" group-title="Новости" tvg-name="360° Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
-#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://i.imgur.com/pttM3KQ.png" iptv-org-id="Channel9.il" group-title="Новости" tvg-name="9 канал",9 канал
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://i.imgur.com/pttM3KQ.png" iptv-org-id="Channel9.il" group-title="Новости" tvg-name="9 канал [IL]",9 канал
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" iptv-org-id="Russia24.ru" group-title="Новости" tvg-name="Россия 24",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
