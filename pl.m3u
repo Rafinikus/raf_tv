@@ -85,8 +85,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/VTJqdoX.png" iptv-org-id="360.ru" group-title="Федеральные" tvg-name="360°",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/RUSX0rX.png" iptv-org-id="ChannelOne.ru" group-title="Федеральные" tvg-name="Первый канал (ОРТ) HD",Первый канал (ОРТ) HD
-https://cache1.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/RUSX0rX.png" iptv-org-id="ChannelOne.ru" group-title="Федеральные" tvg-name="Первый канал (ОРТ)",Первый канал (ОРТ)
+http://31.148.5.241/kanal_1/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" iptv-org-id="Mir.ru" group-title="Федеральные" tvg-name="Мир",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" iptv-org-id="Zvezda.ru" group-title="Федеральные" tvg-name="Звезда",Звезда
