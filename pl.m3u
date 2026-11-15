@@ -46,7 +46,7 @@ https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" iptv-org-id="DiscoveryChannel.ru" group-title="Документальные" tvg-name="Discovery Channel (Россия)",Discovery Channel (Россия)
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://i.imgur.com/GET9Qut.png" iptv-org-id="red.ru" group-title="Развлекательные" tvg-name=".red HD",.red HD
-http://178.134.1.158:8081/red/index.m3u8
+http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" iptv-org-id="2x2.ru" group-title="Развлекательные" tvg-name="2x2",2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://i.imgur.com/nUSx1jF.png" iptv-org-id="Channel8.ru" group-title="Развлекательные" tvg-name="8 канал",8 канал
